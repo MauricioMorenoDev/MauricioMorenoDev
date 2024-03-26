@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Google.
+- 🔭 I’m currently working on Emcali.
 - 🌱 I’m currently learning Web Development.
 - 👯 I’m looking to collaborate on projects.
 - 🤔 I’m looking for help with React.
